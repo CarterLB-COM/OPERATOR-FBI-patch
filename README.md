@@ -6,7 +6,7 @@
 </h1>
 
 <h3>
-  this isn't really source code, but I don't know where else I can share this too. also this is my first time doing something like this so sorry if it's not prefect.
+  this isn't source code, but I don't know where else I can share this too. also this is my first time doing something like this so sorry if it's not prefect.
   You can also ignore the PNG, it's just there to be there.
 </h3>
 
