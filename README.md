@@ -1,7 +1,7 @@
 <h1>OPERATOR FBI Patch
 <br>
   <sub>
-  This is a simple texture replacement, it changes the blackbeard patch on the AVS PL LEADER MC Vest, to an FBI one.
+  This is a simple texture replacement, it changes the blackbeard patch on the AVS PL LEADER Vests, to an FBI one.
   </sub>
 </h1>
 
@@ -15,7 +15,7 @@
     <sub>
         In steam, right-click OPERATOR, and then manage > Browse local files. <br>
         then, OPERATOR_Data\StreamingAssets\aa\StandaloneWindows64. <br> and drag & drop the .bundle into it, and replace it.
-        lastly equiped the AVS PL LEADER MC vest.
+        lastly equiped one of the AVS PL LEADER vests.
     </sub>
 </h1>
 
