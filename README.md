@@ -7,6 +7,7 @@
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Project%20Status-Active-green">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/CarterLB-COM?style=flat-square&logo=github&color=orange">
 </p>
 
 <h1 align="center">How to use 🎮
