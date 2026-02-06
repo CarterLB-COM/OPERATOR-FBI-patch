@@ -1,0 +1,24 @@
+<h1>OPERATOR FBI Patch
+<br>
+  <sub>
+  This is a simple texture replacement, it changes the blackbeard patch on the AVS PL LEADER MC Vest, to an FBI one.
+  </sub>
+</h1>
+
+<h3>
+  this isn't really source code, but I don't know where else I can share this too. also this is my first time doing something like this so sorry if it's not prefect.
+  You can also ignore the PNG, it's just there to be there.
+</h3>
+
+<h1>How to use 🎮
+  <br>
+    <sub>
+        In steam, right-click OPERATOR, and then manage > Browse local files. <br>
+        then, OPERATOR_Data\StreamingAssets\aa\StandaloneWindows64. <br> and drag & drop the .bundle into it, and replace it.
+        lastly equiped the AVS PL LEADER MC vest.
+    </sub>
+</h1>
+
+<h2>⚠️I'm not responsible for any risk that may come with this.⚠️</h2>
+
+<h1>🔧Made using <a href="https://github.com/nesrak1/UABEANext">UABEAvalonia</a></h1>
