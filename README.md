@@ -14,7 +14,7 @@
   <br>
     <sub>
         In steam, right-click OPERATOR, and then manage > Browse local files. <br>
-        then, OPERATOR_Data\StreamingAssets\aa\StandaloneWindows64. <br> and drag & drop the .bundle into it, and replace it.
+        then, OPERATOR_Data\StreamingAssets\aa\StandaloneWindows64. <br> backup, and drag & drop the .bundle into it, and replace it.
        <br> lastly equiped one of the AVS PL LEADER vests.
     </sub>
 </h1>
